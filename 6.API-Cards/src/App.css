@@ -1,0 +1,16 @@
+.card{
+  border: 2px solid rgb(215, 180, 40);
+  max-width:25vw ;
+  padding: 1rem;
+  min-height: 18rem;
+  border-radius: 12px;
+}
+
+.container{
+  display: flex;
+  gap: 2rem;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  padding: 3rem;
+}

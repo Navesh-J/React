@@ -1,0 +1,23 @@
+body{
+  background-color: #242424;
+  color: bisque;
+}
+
+nav,ul{
+  display: flex;
+  gap: 2rem;
+  justify-content: center;
+  align-items: center;
+  background-color: darkolivegreen;
+  height: 4rem;
+}
+
+li{
+  list-style: none;
+  cursor: pointer;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+}
