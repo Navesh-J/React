@@ -1,6 +1,7 @@
 import { useState } from 'react'
 import './App.css'
 //This counter ranges from 0 to 20
+//This project showcases the usage of useState  Hook.
 function App() {
   const [count, setCount] = useState(0)
   const increment=()=>{
