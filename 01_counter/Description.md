@@ -1,0 +1,1 @@
+- useState Hook is used in the following project for updating the counter values
